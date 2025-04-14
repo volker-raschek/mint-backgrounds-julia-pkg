@@ -1,7 +1,6 @@
 # mint-backgrounds-julia
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-julia?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-julia-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-julia-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-julia)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-julia`. Instead of building the
